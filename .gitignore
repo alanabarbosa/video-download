@@ -1,0 +1,22 @@
+# Ignorar pastas de configuração do Maven e IDEs
+.mvn/
+.settings/
+.classpath
+.project
+
+# Ignorar a pasta de build do Maven
+target/
+
+# Ignorar arquivos específicos de mídia
+My Chemical Romance - Teenagers [Official Music Video] [4K] [k6EQAOmJrbw].mp3
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações específicas de ambientes locais
+.env
+
